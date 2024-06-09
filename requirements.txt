@@ -1,7 +1,6 @@
 streamlit
 streamlit_option_menu
-PIL
 pandas
 mysql.connector
-matplotlib.pyplot
-plotly.express 
+matplotlib
+plotly
